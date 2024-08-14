@@ -1,0 +1,1 @@
+This is an API in which the text is classifed into different categories
