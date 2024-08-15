@@ -1,1 +1,14 @@
 Now I took large data and performed multi naive bayes which had given me 90% accuracy
+input format : json
+{"text": 
+"Nvidia's upcoming Blackwell AI chip, which is highly anticipated by tech giants like Amazon, Google, and Microsoft, is facing delays due to design flaws. This setback could impact the plans of these companies, which have invested heavily in Nvidia's AI technologies. Additionally, Tata's ₹27,000 crore semiconductor plant in Assam, India, is expected to become operational in 2025, creating around 27,000 jobs​ (Hindustan Times)."}
+
+
+
+
+
+
+output format : json
+{
+    "Category": "Science&Tech News"
+}
