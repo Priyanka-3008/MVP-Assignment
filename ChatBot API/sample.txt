@@ -1,0 +1,24 @@
+Here a chatbot is created from pre trained transformers using arabic and english languages
+This model identifies both arabic and english languages and gives response accordingly
+
+here is the output for both of them
+
+
+
+1. For english
+INPUT (json format)
+{"query": "How are you?"}
+OUTPUT (json format)
+{"query": "How are you?"}
+
+
+
+
+
+2.Arabic 
+INPUT (json format)
+{"query": "كيف أنت"}
+OUTPUT (json format)
+{
+    "Answer": "كيف أنت ؟ هل أنت من النوع الذي لا يحب أن يرى أحدا في حياته ؟ هل أنت من النوع الذي لا يحب أن يرى أحدا في حياته ؟ هل أنت من النوع الذي لا يحب أن يرى أحدا في حياته ؟ هل أنت من النوع الذي لا يحب أن"
+}
