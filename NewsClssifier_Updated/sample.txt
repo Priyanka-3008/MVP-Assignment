@@ -1,0 +1,1 @@
+Now I took large data and performed multi naive bayes which had given me 90% accuracy
