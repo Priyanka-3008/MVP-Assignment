@@ -6,10 +6,20 @@ here is the output for both of them
 
 
 1. For english
-INPUT (json format)
+(a) INPUT (json format)
 {"query": "How are you?"}
 OUTPUT (json format)
-{"query": "How are you?"}
+{
+    "Answer": "I'm doing well, thank you. How about yourself? Do you have any plans for the weekend?"
+}
+
+
+(b)INPUT (json format)
+{"query": "What is the color of the sun"}
+OUTPUT (json format)
+{
+    "Answer": "The sun is a gorgeous reddish orange color. I love looking at it."
+}
 
 
 
@@ -17,8 +27,15 @@ OUTPUT (json format)
 
 2.Arabic 
 INPUT (json format)
-{"query": "كيف أنت"}
+{"query": "قل لي نكتة"}
 OUTPUT (json format)
 {
-    "Answer": "كيف أنت ؟ هل أنت من النوع الذي لا يحب أن يرى أحدا في حياته ؟ هل أنت من النوع الذي لا يحب أن يرى أحدا في حياته ؟ هل أنت من النوع الذي لا يحب أن يرى أحدا في حياته ؟ هل أنت من النوع الذي لا يحب أن"
+    "Answer": "قل لي نكتة ، قال : يا أبا عبد الله ، إن رجلا من أهل البادية كان اسمه زاهر ، وكان يهدي إلى النبي صلى الله عليه وسلم الهدية من البادية ، فيجهزه النبي صلى الله عليه وسلم إذا أراد أن يخرج ، فقال النبي صلى الله عليه وسلم"
 }
+(b)INPUT (json format)
+{"query": "ما هي عاصمة دولة اليابان" }
+OUTPUT (json format)
+{
+    "Answer": "ما هي عاصمة دولة اليابان ؟ هي مدينة عريقة ، تقع في شمال شرق اليابان ، وهي عاصمة مقاطعة أوساكا ، يبلغ عدد سكانها حوالي 1. 6 مليون نسمة ، وهي عاصمة اليابان ، تقع في شمال شرق البلاد ، وهي عاصمة مقاطعة أوساكا ، يبلغ عدد سكانها حوالي 1. 6 مليون نسمة ، وهي عاصمة اليابان ، تقع في شمال شرق البلاد ، وهي عاصمة مقاطعة أوساكا ، يبلغ عدد سكانها حوالي 1. 6 مليون نسمة ، وهي عاصمة اليابان ، تقع في شمال شرق البلاد ، وهي عاصمة مقاطعة أوساكا ،"
+}
+
