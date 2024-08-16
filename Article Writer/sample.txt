@@ -1,0 +1,20 @@
+This asks input for a topic,language and pdf document which results in summarising the text which is present in pdf
+INPUT
+
+topic: Story
+language: en
+document : 001-HIDE-AND-SEEK-Free-Childrens-Book-By-Monkey-Pen.pdf
+
+
+OUTPUT 
+
+{
+    "Article": "monkey pen's vision is to provide thousands of free children's books to young readers around the globe . 
+    a simple game of hide-and-seek leads the children into the adventure of their lives . the book was published by monkey Pen Ltd Dear Supporter, 
+    thank you for downloading our books . it was a great time to play a game because it was dark and difficult to see, they couldn't play soccer because they
+    couldn’t see the ball ."
+}
+
+
+
+
