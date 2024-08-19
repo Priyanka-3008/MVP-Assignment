@@ -1,0 +1,29 @@
+This give the summary of the youtube videos if captions are present only 
+
+INPUT
+{
+  "yt_url": "https://www.youtube.com/watch?v=AdUNz3x3re0",
+  "language": "en",
+  "typeofsummary": "short"
+}
+
+
+OUTPUT
+{
+    "Summary": "AI can predict a person's personality traits with 95% accuracy. 
+    The latest AI models can infer your emotional state political leanings and even your deepest desires from your Facebook likes. 
+    AI is silently mapping the landscape of your mind and slowly reshaping your mind."
+}
+
+INPUT 
+{
+  "yt_url": "https://www.youtube.com/watch?v=2lAe1cqCOXo",
+  "language": "ar",
+  "typeofsummary": "short"
+}
+
+
+OUTPUT
+{
+    "Summary": "9 ملايين زائر ل \" يوتيوب \" في 2019 بسبب \" كورونا \" و \" ككككك _ ككككك _ ككككككك ككككككك كككككك كككككك كككككك ككككككك ككككككككك كككككككككككككككككككككككككككككفيديو \" ل \" ككككككككككككككككككككككككك"
+}
