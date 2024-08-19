@@ -1,0 +1,21 @@
+INPUT
+
+{
+  "yt_url": "https://www.youtube.com/watch?v=qCOzdnZoOng",
+  "language": "en",
+  "typeofsummary": "detailed"
+}
+
+
+OUTPUT
+
+
+{
+    "Summary": "I used to hate reading books I didn't understand the benefits and nobody could explain them. 
+Once I understood I went from zero books per week to sometimes finishing even two.
+I've read around 350 books so far in the last 7 years. Reading is like exercise it improves all areas of your life
+and all you need is 2 minutes a day. If you want to build a long-term habit you have to start doing it for just 2 minutes
+per day. You can't wait for the right time to make a big decision or to complete something so that you can have it in 
+its tiniest form. You'll still need to start small and take small actions to build up to the big things you'll do in the
+future. If something is important to you right now but you're not sure if you can do it then you might never do it."
+}
